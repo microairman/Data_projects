@@ -1,4 +1,4 @@
-# Data_projects
+# Data Projects
 <!-- Table of Contents -->
 Portfolio of completed final exam and projects I worked on while attending the BIA Certification TripleTen Bootcamp.
 
