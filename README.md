@@ -15,7 +15,7 @@ Portfolio of completed final exam and projects I worked on while attending the B
 |  9 | [Business Analytics Project Assignment](https://drive.google.com/file/d/1yguKu7JaCCcPU5H6EGApxXpELg7ZSbWV/view?usp=drive_link) | TripleTen Explaination of Project Assignment - PDF |
 | 10 | [Business Analytics Project](https://docs.google.com/spreadsheets/d/17skuoi5YO9vKBFeG3UUo2_Nlaknhsr8Sc55P4oU_o_M/edit?usp=drive_link) | Submitted and Approved Project - Google Sheets |
 | 11 | [Business Analytics Additional Suggestions](https://drive.google.com/file/d/18MPSibhBFiFSTm-_gq6_pRNTpMkIQ_TZ/view?usp=drive_link) | Project Improvement Suggestions - PDF |
-| 12 | [Superstore Analysis and Recommendations Project Assignment](https://drive.google.com/file/d/1HCL1UmY-1ZmsibgK_v7-kampfV5ZJblm/view?usp=drive_link) | TripleTen Explaination of Project Assignment - PDF |
+| 12 | [Superstore Project Assignment](https://drive.google.com/file/d/1HCL1UmY-1ZmsibgK_v7-kampfV5ZJblm/view?usp=drive_link) | TripleTen Explaination of Project Assignment - PDF |
 | 13 | [Superstore Analysis and Recommendations](https://public.tableau.com/app/profile/david.bailey8878/viz/DavidBailey-SuperstoreAnalysisandRecommendations/SuperstoreReturnsStory?publish=yes) | Submitted and Approved Project - Tableau Public Link |
 | 14 | [Superstore Analysis and Recommendations Additional Suggestions](https://drive.google.com/file/d/1ioIuN1NexEpRap7mIl0O3dxLsWuiBEVf/view?usp=drive_link) | Project Improvement Suggestions - PDF |
 | 15 | [Shopify Analysis Key Success Factors Project Assignment](https://drive.google.com/file/d/1vSo6WqhmqtOyZZ2ghidhzXrKmcvbt3Xt/view?usp=drive_link) | TripleTen Explaination of Project Assignment - PDF |
